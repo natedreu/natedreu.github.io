@@ -4,3 +4,8 @@ head {
 body {
   width: 1440px;
 }
+h1 {
+  text-align: center;
+  text-font: inter;
+  color: hsl(75, 94%, 57%);
+}
