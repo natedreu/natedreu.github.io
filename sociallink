@@ -1,0 +1,18 @@
+<!DOCTYPE html/>
+<html>
+<head>
+<img src="https://static.vecteezy.com/system/resources/thumbnails/002/387/693/small_2x/user-profile-icon-free-vector.jpg"/>
+</head>
+<body>
+<h1>Jessica Randall</h1>
+<p>London, United Kingdom</p>
+<p>"Front-end developer and avid reader."</p>
+<ul>
+<li>Github</li>
+<li>Frontend mentor</li>
+<li>LinkedIn</li>
+<li>Twitter</li>
+<li>Instagram</li>
+</ul>
+</body>
+</html>
